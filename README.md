@@ -1,19 +1,5 @@
 # Hey there, I'm Star.
-Your average Brazilian Full-Stack developer. Sleepless nights programming don't always equate to success, but they tend to help.
-
-Solve et Coagula.
-## ⚡ Socials
-<p align="left"> 
-  <a href="https://github.com/AshenSkies/AshenSkies/">
-    <img src="https://komarev.com/ghpvc/?username=AshenSkies" alt="AshenSkies" />
-  </a>
-  <a href="https://github.com/AshenSkies">
-    <img height="20" src="https://img.shields.io/github/followers/AshenSkies?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaiovinicyus">
-    <img height="20" src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=kaiovinicyus" />
-  </a>
-</p>
+Your average Brazilian backend developer. Sleepless nights programming don't always equate to success, but they tend to help.
 
 ## ⚒️ Languages and Tools
 <p align="left">
@@ -34,7 +20,7 @@ Solve et Coagula.
 ## 🌸 Projects I'm Involved In
 
 <!--[START PROJECTS]-->
-- Coming soon. 
+- PROJECT: Rejuvenation <a href="https://github.com/PROJECT-Rejuvenation" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/189778976?s=512&v=4" alt="rejuvenation" width="40" height="40"/> </a>
 <!--[END PROJECTS]-->
 
 ## 📰 Featured posts
