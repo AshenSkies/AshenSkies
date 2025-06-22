@@ -20,7 +20,7 @@ Your average Brazilian backend developer. Sleepless nights programming don't alw
 ## 🌸 Projects I'm Involved In
 
 <!--[START PROJECTS]-->
-- PROJECT: Rejuvenation <a href="https://github.com/PROJECT-Rejuvenation" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/189778976?s=512&v=4" alt="rejuvenation" width="40" height="40"/> </a>
+- <div style="display:flex;align-items:center;">PROJECT: Rejuvenation <a href="https://github.com/PROJECT-Rejuvenation" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/189778976?s=512&v=4" alt="rejuvenation" width="40" height="40"/> </a></div>
 <!--[END PROJECTS]-->
 
 ## 📰 Featured posts
